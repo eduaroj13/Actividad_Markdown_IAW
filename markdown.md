@@ -20,7 +20,11 @@
 
 * [Horarios y necesidades de sueño](#7-horarios-y-necesidades-de-sueño)
 
+    * [Tabla de horas de sueño recomendadas según la edad](#tabla-de-horas-de-sueño-recomendadas-según-la-edad)
+
 * [Ejemplo de rutina nocturna](#8-ejemplo-de-rutina-nocturna)
+
+    * [Representación de una rutina mediante código](#representación-de-una-rutina-mediante-código)
 
 * [Conclusión](#9-conclusión)
 
@@ -169,20 +173,15 @@ A continuación, se muestra un ejemplo sencillo de planificación de las activid
 ### Representación de una rutina mediante código
 
 ```python
-hora_de_acostarse = "23:00"
-hora_de_levantarse = "07:00"
-
-actividades = [
-    "Finalizar las tareas",
-    "Preparar el día siguiente",
-    "Evitar las pantallas",
-    "Realizar una actividad relajante",
-    "Dormir"
-]
+rutina_nocturna = {
+    "21:30": "Finalizar las tareas académicas",
+    "22:00": "Preparar la ropa y organizar el día siguiente",
+    "22:15": "Dejar de utilizar dispositivos electrónicos",
+    "22:30": "Leer o realizar una actividad relajante",
+    "23:00": "Acostarse y descansar"
+}
 
 print("Rutina nocturna:")
-for actividad in actividades:
-    print("-", actividad)
 
-print("Hora de acostarse:", hora_de_acostarse)
-print("Hora de levantarse:", hora_de_levantarse)
+for hora, actividad in rutina_nocturna.items():
+    print(hora, "-", actividad)
