@@ -40,3 +40,22 @@ En este documento analizaremos las causas y consecuencias de dormir poco, así c
 
 *Dormir bien es tan importante como mantener una alimentación equilibrada y realizar actividad física.*
 
+---
+
+## 2. ¿Por qué es importante dormir?
+
+Dormir adecuadamente es esencial para mantener una buena salud física y mental. Durante las horas de sueño, el organismo desarrolla diferentes funciones que permiten recuperarse del esfuerzo diario y prepararse para el día siguiente.
+
+Entre los principales beneficios del descanso encontramos:
+
+- **Recuperación física:** ayuda al organismo a reparar tejidos y recuperar energía.
+
+- **Memoria y aprendizaje:** favorece la consolidación de la información adquirida durante el día.
+
+- **Concentración:** permite mantener la atención y realizar tareas con mayor eficacia.
+
+- **Regulación emocional:** contribuye a controlar las emociones y mantener un estado de ánimo estable.
+
+- **Sistema inmunitario:** participa en el correcto funcionamiento de las defensas del organismo.
+
+Por tanto, dormir no consiste únicamente en descansar. Es un proceso necesario para que el cuerpo y el cerebro puedan funcionar correctamente.
