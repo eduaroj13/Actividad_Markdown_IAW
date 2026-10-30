@@ -212,4 +212,4 @@ En conclusión, mantener una rutina de sueño adecuada debe considerarse una pri
 
 Para consultar [información adicional sobre el proyecto](docs/detalles.md).
 
-![Fachada del IES Clara del Rey](https://upload.wikimedia.org/wikipedia/commons/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
+![I.E.S. Clara del Rey - Imagen enlazada desde Wikimedia Commons](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/960px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
