@@ -58,4 +58,4 @@ La entrega se realizará mediante:
 - El enlace directo al repositorio público a través del aula virtual.
 - Una captura de pantalla donde se pueda visualizar el repositorio desde GitHub.
 
-![Captura del Repositorio]
+![Captura del Repositorio](../assets/captura-repositorio.jpg)
