@@ -205,3 +205,11 @@ En conclusión, mantener una rutina de sueño adecuada debe considerarse una pri
 - [Centros para el Control y la Prevención de Enfermedades (CDC) – Sueño](https://www.cdc.gov/sleep/)
 - [National Heart, Lung, and Blood Institute – ¿Por qué es importante dormir?](https://www.nhlbi.nih.gov/health/sleep/why-sleep-important)
 - [American Academy of Sleep Medicine – Recomendaciones sobre la duración del sueño](https://aasm.org/resources/pdf/sleepdurationrecommendations.pdf)
+
+---
+
+## 11. Información adicional
+
+Para consultar [información adicional sobre el proyecto](docs/detalles.md).
+
+![Fachada del IES Clara del Rey](https://upload.wikimedia.org/wikipedia/commons/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
