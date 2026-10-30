@@ -185,3 +185,23 @@ print("Rutina nocturna:")
 
 for hora, actividad in rutina_nocturna.items():
     print(hora, "-", actividad)
+
+```
+
+---
+
+## 9. Conclusión
+
+El sueño desempeña un papel fundamental en la salud y el desarrollo de los jóvenes. Dormir las horas necesarias permite mejorar la concentración, favorecer el aprendizaje, mantener un buen estado de ánimo y recuperar la energía después de las actividades diarias.
+
+A lo largo de este documento hemos visto que factores como el uso excesivo de dispositivos electrónicos, las responsabilidades académicas y los horarios irregulares pueden perjudicar el descanso. También hemos analizado algunas de sus consecuencias y las medidas que podemos adoptar para mejorar nuestros hábitos.
+
+En conclusión, mantener una rutina de sueño adecuada debe considerarse una prioridad. Pequeños cambios en nuestros hábitos diarios pueden mejorar la calidad del descanso y contribuir a nuestro bienestar físico y mental.
+
+---
+
+## 10. Referencias
+
+- [Centros para el Control y la Prevención de Enfermedades (CDC) – Sueño](https://www.cdc.gov/sleep/)
+- [National Heart, Lung, and Blood Institute – ¿Por qué es importante dormir?](https://www.nhlbi.nih.gov/health/sleep/why-sleep-important)
+- [American Academy of Sleep Medicine – Recomendaciones sobre la duración del sueño](https://aasm.org/resources/pdf/sleepdurationrecommendations.pdf)
