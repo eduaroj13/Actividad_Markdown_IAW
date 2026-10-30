@@ -78,6 +78,8 @@ Además, los contenidos digitales están disponibles a cualquier hora, lo que pu
 
 Por este motivo, mantener un equilibrio entre las actividades diarias y el descanso se ha convertido en un aspecto importante para cuidar la salud y el rendimiento académico.
 
+![Uso del teléfono móvil antes de dormir](assets/movil-antes-de-dormir.jpg)
+
 ---
 
 ## 4. Principales causas
@@ -132,6 +134,9 @@ Algunas recomendaciones que pueden ayudar son:
 4. Evitar las bebidas con cafeína durante las últimas horas del día.
 5. Realizar actividad física de forma habitual, evitando el ejercicio intenso justo antes de acostarse.
 6. Evitar las comidas demasiado abundantes antes de dormir.
+
+![Consejo para mejorar tu descanso](assets/consejos-mejorar-descanso.jpg)
+
 
 ---
 
