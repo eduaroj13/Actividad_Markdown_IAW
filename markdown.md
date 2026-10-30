@@ -14,6 +14,8 @@
 
 * [Consecuencias de dormir poco](#5-consecuencias-de-dormir-poco)
 
+    * [Conceptos relacionados con el descanso](#conceptos-relacionados-con-el-descanso)
+
 * [¿Cómo podemos mejorar el descanso?](#6-cómo-podemos-mejorar-el-descanso)
 
 * [Horarios y necesidades de sueño](#7-horarios-y-necesidades-de-sueño)
@@ -34,7 +36,7 @@ El sueño es una necesidad biológica fundamental para el correcto funcionamient
 
 Sin embargo, dormir las horas necesarias se ha convertido en una dificultad para muchos jóvenes. Los estudios, el uso de dispositivos electrónicos, los horarios irregulares y las actividades sociales pueden reducir el tiempo dedicado al descanso.
 
-La falta de sueño no solo provoca cansancio, sino que también puede afectar a la **concentración**, la memoria, el estado de ánimo y el rendimiento académico. Por este motivo, es importante comprender que descansar adecuadamente no es una pérdida de tiempo, sino una parte esencial de una vida saludable.
+La falta de sueño no solo provoca cansancio, sino que también puede afectar a la concentración, la memoria, el estado de ánimo y el rendimiento académico. Por este motivo, es importante comprender que descansar adecuadamente no es una pérdida de tiempo, sino una parte esencial de una vida saludable.
 
 En este documento analizaremos las causas y consecuencias de dormir poco, así como algunas medidas para mejorar los hábitos de descanso. También veremos cómo influyen los horarios y qué rutinas pueden ayudar a conseguir un sueño de mayor calidad.
 
@@ -101,3 +103,86 @@ Entre las principales consecuencias encontramos:
 5. **Alteraciones en la salud:** mantener una falta de sueño prolongada puede afectar negativamente al bienestar físico y mental.
 
 Es importante tener en cuenta que las consecuencias pueden variar según la edad, las horas de descanso y la frecuencia con la que se duerme menos de lo necesario.
+
+### Conceptos relacionados con el descanso
+
+- **Higiene del sueño:** Conjunto de hábitos y condiciones ambientales que favorecen un descanso adecuado.
+
+- **Insomnio:** Dificultad persistente para conciliar el sueño, mantenerlo o conseguir un descanso reparador.
+
+- **Ritmo circadiano:** Sistema biológico que regula los ciclos de sueño y vigilia aproximadamente cada 24 horas.
+
+Para ampliar esta información, se puede consultar la [guía sobre el sueño de los Centros para el Control y la Prevención de Enfermedades (CDC)](https://www.cdc.gov/sleep/).
+
+---
+
+## 6. ¿Cómo podemos mejorar el descanso?
+
+Para conseguir un descanso adecuado, es importante mantener unos hábitos saludables y establecer una rutina que permita al organismo prepararse para dormir.
+
+Algunas recomendaciones que pueden ayudar son:
+
+1. Mantener un horario regular para acostarse y levantarse.
+2. Evitar el uso de teléfonos móviles y ordenadores justo antes de dormir.
+3. Mantener la habitación oscura, silenciosa y a una temperatura agradable.
+4. Evitar las bebidas con cafeína durante las últimas horas del día.
+5. Realizar actividad física de forma habitual, evitando el ejercicio intenso justo antes de acostarse.
+6. Evitar las comidas demasiado abundantes antes de dormir.
+
+---
+
+## 7. Horarios y necesidades de sueño
+
+Las necesidades de sueño varían según la edad de cada persona. Durante la adolescencia, el descanso adquiere una especial importancia debido a los cambios físicos, hormonales y cognitivos que se producen durante esta etapa.
+
+No todas las personas necesitan exactamente las mismas horas de sueño, pero existen recomendaciones generales que permiten establecer unos hábitos adecuados.
+
+### Tabla de horas de sueño recomendadas según la edad
+
+| Grupo de edad | Horas recomendadas | Importancia del descanso |
+|---------------------------|--------------|--------------------|
+| Adolescentes (13-17 años) | 8-10 horas | Favorece el desarrollo y el aprendizaje. |
+| Adultos jóvenes (18-25 años) | 7-9 horas | Contribuye al rendimiento físico y mental. |
+| Adultos (26-64 años) | 7-9 horas | Ayuda a mantener una buena salud general. |
+| Adultos mayores (65 años o más) | 7-8 horas | Favorece el bienestar y la recuperación. |
+
+Estos valores son recomendaciones generales y pueden variar según las necesidades individuales.
+
+Establecer una hora fija para acostarse y levantarse permite mantener una rutina más regular y facilita la organización de las actividades diarias.
+
+---
+
+## 8. Ejemplo de rutina nocturna
+
+Establecer una rutina antes de dormir puede ayudar a preparar el organismo para el descanso. Lo recomendable es reducir progresivamente las actividades estimulantes y mantener unos horarios regulares.
+
+A continuación, se muestra un ejemplo sencillo de planificación de las actividades previas al sueño:
+
+| Hora | Actividad |
+|---|---|
+| 21:30 | Finalizar las tareas académicas. |
+| 22:00 | Preparar la ropa y organizar el día siguiente. |
+| 22:15 | Dejar de utilizar dispositivos electrónicos. |
+| 22:30 | Realizar una actividad relajante. |
+| 23:00 | Acostarse y descansar. |
+
+### Representación de una rutina mediante código
+
+```python
+hora_de_acostarse = "23:00"
+hora_de_levantarse = "07:00"
+
+actividades = [
+    "Finalizar las tareas",
+    "Preparar el día siguiente",
+    "Evitar las pantallas",
+    "Realizar una actividad relajante",
+    "Dormir"
+]
+
+print("Rutina nocturna:")
+for actividad in actividades:
+    print("-", actividad)
+
+print("Hora de acostarse:", hora_de_acostarse)
+print("Hora de levantarse:", hora_de_levantarse)
