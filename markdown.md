@@ -59,3 +59,15 @@ Entre los principales beneficios del descanso encontramos:
 - **Sistema inmunitario:** participa en el correcto funcionamiento de las defensas del organismo.
 
 Por tanto, dormir no consiste únicamente en descansar. Es un proceso necesario para que el cuerpo y el cerebro puedan funcionar correctamente.
+
+---
+
+## 3. El sueño en la actualidad
+
+En la actualidad, los hábitos de descanso de los jóvenes están condicionados por diferentes aspectos de su vida cotidiana. Las responsabilidades académicas, las actividades extraescolares y el uso frecuente de dispositivos electrónicos pueden dificultar que mantengan horarios regulares.
+
+Uno de los factores más destacados es el uso de teléfonos móviles, ordenadores y tabletas durante las últimas horas del día. Muchas personas utilizan estos dispositivos antes de acostarse para consultar redes sociales, ver vídeos, jugar o comunicarse con otras personas.
+
+Además, los contenidos digitales están disponibles a cualquier hora, lo que puede favorecer que los jóvenes retrasen el momento de irse a dormir. Esta situación puede provocar que duerman menos horas de las necesarias, especialmente cuando deben levantarse temprano para acudir al centro educativo.
+
+Por este motivo, mantener un equilibrio entre las actividades diarias y el descanso se ha convertido en un aspecto importante para cuidar la salud y el rendimiento académico.
